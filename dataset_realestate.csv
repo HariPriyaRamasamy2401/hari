@@ -1,4 +1,4 @@
-Address,AreaName,bedrooms,bathrooms,sqft_living,sqft_lot,floors, price 
+Address,AreaName,bedrooms,bathrooms,sqft_living,sqft_lot,floors,price
 "86 Waterford Dr Toronto, ON",Richview,3,1,1180,5650,1,"$221,900.00 "
 "#80 - 100 BEDDOE DR Hamilton, ON",Chedoke Park B,3,2.25,2570,7242,2,"$538,000.00 "
 "213 Bowman Street Hamilton, ON",Ainslie Wood East,2,1,770,10000,1,"$180,000.00 "
